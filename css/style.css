@@ -499,7 +499,7 @@ body.light hr.separator {
 }
 
 .home .bg {
-  background-image: url(../img/2.jpg);
+  background-image: url(../img/anis1.png);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: top;
@@ -508,7 +508,8 @@ body.light hr.separator {
   border-radius: 15px;
   left: 30px;
   top: 30px;
-  box-shadow: 0 0 7px rgba(0,0,0,.9);
+  box-shadow: 0 0 0 rgba(0,0,0,0);
+  transform: scale(1.8);
 }
 
 .home .container-home {
